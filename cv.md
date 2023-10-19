@@ -33,6 +33,8 @@ To work in a company and in a team , I have such qualities as : flexibility , ho
 - Cross-browser compatibility: deep understanding of the differences between different browsers and experience in creating compatible interfaces
 - Web Performance: Optimize web pages to improve loading speed and improve user experience, used services such as PageSpeed ​​Insights
 - Github: Experience with the Git version control system for collaborative development
+
+
 ---
 ### English language
 
