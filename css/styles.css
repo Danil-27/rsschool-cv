@@ -2324,9 +2324,6 @@ body {
   padding-bottom: 0.625rem;
   font-weight: normal;
 }
-.about__block_text {
-  padding-right: 3.125rem;
-}
 
 @media screen and (max-width: 991px) {
   .about__block_I {
@@ -2354,6 +2351,9 @@ body {
     width: 21.25rem;
     height: 0.0625rem;
     background-color: var(--black);
+  }
+  .about__block_text {
+    padding-right: 3.125rem;
   }
 }
 @media screen and (min-width: 1110px) {
