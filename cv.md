@@ -81,6 +81,7 @@ One of the main periods in my practice was the joint work with my mentor , who h
 ![Product](img/S.png) ![Product](img/S2.png)
 
 ---
+
 ### Parts of blocks
 
 ##### [cssBayan-Github](https://github.com/Danil-27/cssBayan) | [ssBayan-Deployment](https://danil-27.github.io/cssBayan/cssBayan/index.html)
